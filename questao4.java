@@ -63,3 +63,5 @@ public class questao4 {
         }
     }
 }
+
+//Resposta: Informe o Interruptor 10, 20, 30

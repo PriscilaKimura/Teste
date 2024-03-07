@@ -30,3 +30,5 @@ public static void main(String args[]) {
     }
 }
 
+//Resposta: Não pertence a Sequência de Fibonacci
+
