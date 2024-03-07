@@ -1,1 +1,3 @@
-bin/*.class
+# Ignorar arquivos compilados Java
+*.class
+
